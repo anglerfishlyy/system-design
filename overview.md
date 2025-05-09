@@ -12,3 +12,6 @@ Consistent hashing is a way to handle to loads in a better way using "Ring of ha
 if there are less servers , that means less breakpoints , henceforth not better (since the load is being skewed)
 
 //DAY - 2 
+
+Learning something awesome , gotta scale my SAAS product ....................... L....E......A........R......N........I........N.......G.............  :)
+  
